@@ -1,10 +1,15 @@
+html{
+    width: 100%;
+}
+
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 100%;
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: blue;
+    background-color: white;
+    
     
 
 
@@ -15,7 +20,7 @@ div{
 }
 
 body > .container{
-    width: 90%;
+    width: 100%;
     background-color: white;
     align-content: center;
     margin-top: 20px;
@@ -44,6 +49,7 @@ h1{
 .image-pictures> img{
     width: 200px;
 }
+
 ul > li, li{
     font-weight: bold;
 }
