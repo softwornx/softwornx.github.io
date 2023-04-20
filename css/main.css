@@ -4,7 +4,6 @@ html{
 
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 100%;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -30,14 +29,13 @@ body > .container{
 }
 h2{
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 h3{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    color: red;
 }
 h1{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .image-pictures{
@@ -47,7 +45,7 @@ h1{
     align-content: center;
 }
 .image-pictures> img{
-    width: 200px;
+    width: 250px;
 }
 
 ul > li, li{
